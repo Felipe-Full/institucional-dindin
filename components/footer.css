@@ -1,0 +1,69 @@
+footer h1 {
+    font-size: 50px;
+    font-weight: 300;
+    margin-left: 162px;
+    margin-top: -70px;
+    color: #fff;
+    font-family: 'Ubuntu';
+    font-size: 60px;
+}
+
+footer img {
+    width: 80px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+footer p {
+    position: absolute;
+    color: #fff;
+    margin-top: -200px;
+    margin-left: 180px;
+    font-family: 'Ubuntu';
+    font-size: 15px;
+   
+
+}
+
+footer {
+    position: relative;
+    margin-bottom: none;
+    background-color: var(--verde);
+    width: 200%;
+    height: 200px;
+    margin-top: 2px;
+    margin-left: -10px;
+}
+
+footer div a {
+    color: #fff;
+    position: relative;
+    width: 100px;
+    margin-top: 4px;
+    left: 750px;
+    top: -250px;
+    display: flex;
+    text-decoration: none;
+    font-family: 'Ubuntu';
+
+}
+
+footer div a :hover {
+    color: blue;
+    transition: 0.4s;
+}
+
+
+footer button {
+    width: 300px;
+    font-size: 15px;
+    background-color: var(--verde);
+    color: #fff;
+    border: 2px solid #FFFFFF;
+    position: relative;
+    margin-top: 10px;
+    top: -340px;
+    left: 1000px;
+    display: flex;
+    align-items: center;
+}
