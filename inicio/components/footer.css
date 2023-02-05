@@ -26,13 +26,13 @@ footer p {
 }
 
 footer {
-    position: relative;
-    margin-bottom: none;
+    position: absolute;
     background-color: var(--verde);
     width: 200%;
-    height: 200px;
+    height: 30%;
     margin-top: 2px;
     margin-left: -10px;
+    
 }
 
 footer div a {
